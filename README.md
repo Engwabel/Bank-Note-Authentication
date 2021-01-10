@@ -63,9 +63,12 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png"width=200>](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://images.app.goo.gl/LTzEXJP88hn38JCUA" width=200>](https://www.streamlit.io/) 
+[<img target="_blank" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png"width=200>](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
+[<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
+[<img target="_blank" src="https://github.com/Engwabel/Bank-Note-Authentication/blob/main/streamlit.png" width=200>](https://www.streamlit.io/) 
 
-[<img target="_blank" src="https://images.app.goo.gl/hcZhoVcKB9tBMpkEA" width=270>](https://pypi.org/project/flasgger/0.5.4/) [<img target="_blank" src="https://images.app.goo.gl/TJoL8bEcr6cm9Xzu7" width=100>](https://www.docker.com/)
+[<img target="_blank" src="https://github.com/Engwabel/Bank-Note-Authentication/blob/main/flasgger.png" width=270>](https://pypi.org/project/flasgger/0.5.4/) [<img target="_blank" src="https://github.com/Engwabel/Bank-Note-Authentication/blob/main/dockerhero.jpg" width=100>](https://www.docker.com/)
 
 ## License
 [![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)

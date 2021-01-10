@@ -1,6 +1,7 @@
 # Bank-Note-Authentication
 
 ## Table of Content
+  * [Demo snapshot](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
@@ -10,7 +11,16 @@
   * [License](#license)
   * [Credits](#credits)
   
-  
+## Demo
+Link: [http://localhost:8000/apidocs/](http://localhost:8000/apidocs/)
+
+[![](https://github.com/Engwabel/Bank-Note-Authentication/blob/main/flasgger%20app.png)](http://localhost:8000/apidocs/)
+
+Link: [http://localhost:8501/](http://localhost:8501/)
+
+[![](https://github.com/Engwabel/Bank-Note-Authentication/blob/main/streamlit%20snapshot.png)](http://localhost:8501/)
+
+
 ## Overview
 Bank Note Authentication
 Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
@@ -63,7 +73,7 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png"width=200>](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) 
+[<img target="_blank" src="https://github.com/Engwabel/Bank-Note-Authentication/blob/main/1200px-Scikit_learn_logo_small.svg.png"width=200>](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) 
 [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 [<img target="_blank" src="https://github.com/Engwabel/Bank-Note-Authentication/blob/main/streamlit.png" width=200>](https://www.streamlit.io/) 
